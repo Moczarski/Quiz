@@ -1,0 +1,14 @@
+C:\Users\MoczuPC\source\repos\Quiz\Quiz\obj\Release\Quiz.csprojAssemblyReference.cache
+C:\Users\MoczuPC\source\repos\Quiz\Quiz\obj\Release\MainWindow.g.cs
+C:\Users\MoczuPC\source\repos\Quiz\Quiz\obj\Release\Page1.g.cs
+C:\Users\MoczuPC\source\repos\Quiz\Quiz\obj\Release\Page2.g.cs
+C:\Users\MoczuPC\source\repos\Quiz\Quiz\obj\Release\Page3.g.cs
+C:\Users\MoczuPC\source\repos\Quiz\Quiz\obj\Release\Page4.g.cs
+C:\Users\MoczuPC\source\repos\Quiz\Quiz\obj\Release\Page5.g.cs
+C:\Users\MoczuPC\source\repos\Quiz\Quiz\obj\Release\Page6.g.cs
+C:\Users\MoczuPC\source\repos\Quiz\Quiz\obj\Release\Page7.g.cs
+C:\Users\MoczuPC\source\repos\Quiz\Quiz\obj\Release\Page8.g.cs
+C:\Users\MoczuPC\source\repos\Quiz\Quiz\obj\Release\Page9.g.cs
+C:\Users\MoczuPC\source\repos\Quiz\Quiz\obj\Release\App.g.cs
+C:\Users\MoczuPC\source\repos\Quiz\Quiz\obj\Release\Quiz_MarkupCompile.cache
+C:\Users\MoczuPC\source\repos\Quiz\Quiz\obj\Release\Quiz_MarkupCompile.lref

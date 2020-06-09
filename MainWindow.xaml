@@ -1,0 +1,20 @@
+﻿<Window x:Class="Quiz.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Quiz"
+        mc:Ignorable="d"
+        Title="Quiz" Height="450" Width="800" ScrollViewer.VerticalScrollBarVisibility="Disabled" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label x:Name="Question" Content="Pytanie" HorizontalAlignment="Left" Margin="100,50,0,0" VerticalAlignment="Top" Height="99" Width="584" FontSize="20"/>
+        <RadioButton x:Name="Answer1" Content="Odp 1" HorizontalAlignment="Left" Margin="135,225,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <RadioButton x:Name="Answer2" Content="Odp 2" HorizontalAlignment="Left" Margin="135,256,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <RadioButton x:Name="Answer3" Content="Odp 3" HorizontalAlignment="Left" Margin="135,287,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Button x:Name="Next" Content="Dalej" HorizontalAlignment="Left" Margin="644,365,0,0" VerticalAlignment="Top" Width="140" Height="45" FontSize="20" Click="Next_Click"/>
+        <Button x:Name="Back" Content="Wstecz" HorizontalAlignment="Left" Margin="10,365,0,0" VerticalAlignment="Top" Width="140" Height="45" FontSize="20" Click="Back_Click"/>
+        <GroupBox x:Name="Answers" Header="Odpowiedzi" HorizontalAlignment="Left" Height="170" Margin="100,163,0,0" VerticalAlignment="Top" Width="584" FontSize="20"/>
+        <Button x:Name="Finish" Content="Zakończ" HorizontalAlignment="Left" Margin="644,365,0,0" VerticalAlignment="Top" Width="140" Height="45" FontSize="20" Click="Finish_Click" Visibility="Hidden"/>
+
+    </Grid>
+</Window>
